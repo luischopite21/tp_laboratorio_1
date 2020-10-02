@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1589678487 source:c:\users\tamura\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589680486 c:\users\tamura\desktop\tp2\funciones.h
+
+1589678550 source:c:\users\tamura\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1601186905 source:c:\users\tamura\desktop\tp2--programacion1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1601186521 c:\users\tamura\desktop\tp2--programacion1\funciones.h
+
+1601187322 source:c:\users\tamura\desktop\tp2--programacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
